@@ -12,7 +12,7 @@ Just download and run the app on your PC (Windows only) along with the game (in 
 
 While playing you can just "check" if anyone is safe (you saw him do tasks or anyone else said that), if anyone is sus (you are very suspicius of that player) and who are the players already DEAD!
 
-![alt text](https://ibb.co/mtNtrTt)
+![Screenshot](https://i.ibb.co/ftDtVFt/ppt-screen.jpg)
 
 In the end, this is a very useful tool to help you figure out who is the impostor!
 
