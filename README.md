@@ -1,6 +1,8 @@
-# PRO PLAYER TOOL for Among Us v1.0b
+# PRO PLAYER TOOL for Among Us v1.1 (Updated)
 
 PRO PLAYER TOOL is a tiny app for PC that allows you to keep track of who is safe, sus and dead!
+
+Update 1.1: Now with images changing when you select the diferent status and with the ability to swap all the images used for your own!!
 
 ![Screenshot](https://i.ibb.co/ZG8rrSt/logo.jpg)
 
@@ -22,7 +24,7 @@ The tool presents you a easy-to-use form where you can check the status of your 
 
 After playing for a while you can see how easy is to know who you are suspicious or not!
 
-![Screenshot](https://i.ibb.co/JqWxmHH/2.jpg)
+![Screenshot](https://i.ibb.co/tBrncGm/1-1.jpg)
 
 
 In the end, this is a very useful tool to help you figure out who is the impostor!
