@@ -16,7 +16,7 @@ While playing you can just "check" if anyone is safe (you saw him do tasks or an
 
 ![Screenshot](https://i.ibb.co/ftDtVFt/ppt-screen.jpg)
 
-The tool presents you a easy-to-use form where you can check status you current game.
+The tool presents you a easy-to-use form where you can check the status of your current game.
 
 ![Screenshot](https://i.ibb.co/MSvbJqw/1.jpg)
 
