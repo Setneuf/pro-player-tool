@@ -20,11 +20,9 @@ While playing you can just "check" if anyone is safe (you saw him do tasks or an
 
 The tool presents you a easy-to-use form where you can check the status of your current game.
 
-![Screenshot](https://i.ibb.co/z4X1p0z/1.jpg)
+![Screenshot]()
 
 After playing for a while you can see how easy is to know who you are suspicious or not!
-
-![Screenshot](https://i.ibb.co/tBrncGm/1-1.jpg)
 
 
 In the end, this is a very useful tool to help you figure out who is the impostor!
