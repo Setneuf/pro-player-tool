@@ -2,6 +2,8 @@
 
 PRO PLAYER TOOL is a tiny app for PC that allows you to keep track of who is safe, sus and dead!
 
+![Screenshot](https://i.ibb.co/ZG8rrSt/logo.jpg)
+
 #
 ## Installation
 
@@ -13,6 +15,15 @@ Just download and run the app on your PC (Windows only) along with the game (in 
 While playing you can just "check" if anyone is safe (you saw him do tasks or anyone else said that), if anyone is sus (you are very suspicius of that player) and who are the players already DEAD!
 
 ![Screenshot](https://i.ibb.co/ftDtVFt/ppt-screen.jpg)
+
+The tool presents you a easy-to-use form where you can check status you current game.
+
+![Screenshot](https://i.ibb.co/MSvbJqw/1.jpg)
+
+After playing for a while you can see how easy is to know who you are suspicious or not!
+
+![Screenshot](https://i.ibb.co/pzCKkjr/2.jpg)
+
 
 In the end, this is a very useful tool to help you figure out who is the impostor!
 
