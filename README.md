@@ -9,7 +9,7 @@ Update 1.1: Now with images changing when you select the diferent status and wit
 #
 ## Installation
 
-Just download and run the app on your PC (Windows only) along with the game (in window mode).r.
+Just download and run the app on your PC (Windows only) along with the game (in window mode).
 
 #
 ## How to use PPT with Among US
